@@ -8,9 +8,9 @@ Class 03:- Review of Linear Algebra
 <br>
 Class 04:- K-Nearest Neighbors Algorithm
 <br>
-<!--Class 05:- K-Means Clustering
+Class 05:- K-Means Clustering
 <br>
-Class 06:- Decision Trees and Random Forests
+<!--Class 06:- Decision Trees and Random Forests
 <br>
 Class 07:- Linear Regression
 <br>
