@@ -12,10 +12,12 @@ Class 05:- K-Means Clustering
 <br>
 Class 06:- Decision Trees and Random Forests
 <br>
-<!--Class 07:- Linear Regression
+Class 07:- Principal Component Analysis
 <br>
-Class 08:- Logisitic Regression
+Class 08:- Linear Regression
 <br>
-Class 09:- Intro to Neural Nets - Intuition, MLP
+Class 09:- Logisitic Regression
 <br>
-Class 10:- Backpropogation-->
+Class 10:- Intro to Neural Nets - Intuition, MLP, Starting with Keras
+<br>
+Class 11:- Backpropogation, Simple AutoEncoder
